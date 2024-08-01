@@ -1,0 +1,4232 @@
+[
+    [
+        -999999999,
+        0,
+        {
+            "end_A_in_stationary_system": {
+                "time": 0,
+                "timeStep": 1,
+                "x": 0,
+                "y": 0,
+                "vx": 1,
+                "vy": 0
+            },
+            "end_B_in_stationary_system": {
+                "time": 0,
+                "timeStep": 1,
+                "x": 15,
+                "y": 0,
+                "vx": 1,
+                "vy": 0
+            },
+            "light_in_stationary_system": {
+                "time": 0,
+                "timeStep": 1,
+                "x": 0,
+                "y": 0,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        0,
+        1,
+        {
+            "end_A_in_stationary_system": {
+                "time": 1,
+                "timeStep": 1,
+                "x": 1,
+                "y": 1,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        0,
+        1,
+        {
+            "end_B_in_stationary_system": {
+                "time": 1,
+                "timeStep": 1,
+                "x": 16,
+                "y": 1,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        0,
+        1,
+        {
+            "light_in_stationary_system": {
+                "time": 1,
+                "timeStep": 1,
+                "x": 2,
+                "y": 1,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        1,
+        2,
+        {
+            "end_A_in_stationary_system": {
+                "time": 2,
+                "timeStep": 1,
+                "x": 2,
+                "y": 2,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        1,
+        2,
+        {
+            "end_B_in_stationary_system": {
+                "time": 2,
+                "timeStep": 1,
+                "x": 17,
+                "y": 2,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        1,
+        2,
+        {
+            "light_in_stationary_system": {
+                "time": 2,
+                "timeStep": 1,
+                "x": 4,
+                "y": 2,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        2,
+        3,
+        {
+            "end_A_in_stationary_system": {
+                "time": 3,
+                "timeStep": 1,
+                "x": 3,
+                "y": 3,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        2,
+        3,
+        {
+            "end_B_in_stationary_system": {
+                "time": 3,
+                "timeStep": 1,
+                "x": 18,
+                "y": 3,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        2,
+        3,
+        {
+            "light_in_stationary_system": {
+                "time": 3,
+                "timeStep": 1,
+                "x": 6,
+                "y": 3,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        3,
+        4,
+        {
+            "end_A_in_stationary_system": {
+                "time": 4,
+                "timeStep": 1,
+                "x": 4,
+                "y": 4,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        3,
+        4,
+        {
+            "end_B_in_stationary_system": {
+                "time": 4,
+                "timeStep": 1,
+                "x": 19,
+                "y": 4,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        3,
+        4,
+        {
+            "light_in_stationary_system": {
+                "time": 4,
+                "timeStep": 1,
+                "x": 8,
+                "y": 4,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        4,
+        5,
+        {
+            "end_A_in_stationary_system": {
+                "time": 5,
+                "timeStep": 1,
+                "x": 5,
+                "y": 5,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        4,
+        5,
+        {
+            "end_B_in_stationary_system": {
+                "time": 5,
+                "timeStep": 1,
+                "x": 20,
+                "y": 5,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        4,
+        5,
+        {
+            "light_in_stationary_system": {
+                "time": 5,
+                "timeStep": 1,
+                "x": 10,
+                "y": 5,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        5,
+        6,
+        {
+            "end_A_in_stationary_system": {
+                "time": 6,
+                "timeStep": 1,
+                "x": 6,
+                "y": 6,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        5,
+        6,
+        {
+            "end_B_in_stationary_system": {
+                "time": 6,
+                "timeStep": 1,
+                "x": 21,
+                "y": 6,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        5,
+        6,
+        {
+            "light_in_stationary_system": {
+                "time": 6,
+                "timeStep": 1,
+                "x": 12,
+                "y": 6,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        6,
+        7,
+        {
+            "end_A_in_stationary_system": {
+                "time": 7,
+                "timeStep": 1,
+                "x": 7,
+                "y": 7,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        6,
+        7,
+        {
+            "end_B_in_stationary_system": {
+                "time": 7,
+                "timeStep": 1,
+                "x": 22,
+                "y": 7,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        6,
+        7,
+        {
+            "light_in_stationary_system": {
+                "time": 7,
+                "timeStep": 1,
+                "x": 14,
+                "y": 7,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        7,
+        8,
+        {
+            "end_A_in_stationary_system": {
+                "time": 8,
+                "timeStep": 1,
+                "x": 8,
+                "y": 8,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        7,
+        8,
+        {
+            "end_B_in_stationary_system": {
+                "time": 8,
+                "timeStep": 1,
+                "x": 23,
+                "y": 8,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        7,
+        8,
+        {
+            "light_in_stationary_system": {
+                "time": 8,
+                "timeStep": 1,
+                "x": 16,
+                "y": 8,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        8,
+        9,
+        {
+            "end_A_in_stationary_system": {
+                "time": 9,
+                "timeStep": 1,
+                "x": 9,
+                "y": 9,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        8,
+        9,
+        {
+            "end_B_in_stationary_system": {
+                "time": 9,
+                "timeStep": 1,
+                "x": 24,
+                "y": 9,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        8,
+        9,
+        {
+            "light_in_stationary_system": {
+                "time": 9,
+                "timeStep": 1,
+                "x": 18,
+                "y": 9,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        9,
+        10,
+        {
+            "end_A_in_stationary_system": {
+                "time": 10,
+                "timeStep": 1,
+                "x": 10,
+                "y": 10,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        9,
+        10,
+        {
+            "end_B_in_stationary_system": {
+                "time": 10,
+                "timeStep": 1,
+                "x": 25,
+                "y": 10,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        9,
+        10,
+        {
+            "light_in_stationary_system": {
+                "time": 10,
+                "timeStep": 1,
+                "x": 20,
+                "y": 10,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        10,
+        11,
+        {
+            "end_A_in_stationary_system": {
+                "time": 11,
+                "timeStep": 1,
+                "x": 11,
+                "y": 11,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        10,
+        11,
+        {
+            "end_B_in_stationary_system": {
+                "time": 11,
+                "timeStep": 1,
+                "x": 26,
+                "y": 11,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        10,
+        11,
+        {
+            "light_in_stationary_system": {
+                "time": 11,
+                "timeStep": 1,
+                "x": 22,
+                "y": 11,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        11,
+        12,
+        {
+            "end_A_in_stationary_system": {
+                "time": 12,
+                "timeStep": 1,
+                "x": 12,
+                "y": 12,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        11,
+        12,
+        {
+            "end_B_in_stationary_system": {
+                "time": 12,
+                "timeStep": 1,
+                "x": 27,
+                "y": 12,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        11,
+        12,
+        {
+            "light_in_stationary_system": {
+                "time": 12,
+                "timeStep": 1,
+                "x": 24,
+                "y": 12,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        12,
+        13,
+        {
+            "end_A_in_stationary_system": {
+                "time": 13,
+                "timeStep": 1,
+                "x": 13,
+                "y": 13,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        12,
+        13,
+        {
+            "end_B_in_stationary_system": {
+                "time": 13,
+                "timeStep": 1,
+                "x": 28,
+                "y": 13,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        12,
+        13,
+        {
+            "light_in_stationary_system": {
+                "time": 13,
+                "timeStep": 1,
+                "x": 26,
+                "y": 13,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        13,
+        14,
+        {
+            "end_A_in_stationary_system": {
+                "time": 14,
+                "timeStep": 1,
+                "x": 14,
+                "y": 14,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        13,
+        14,
+        {
+            "end_B_in_stationary_system": {
+                "time": 14,
+                "timeStep": 1,
+                "x": 29,
+                "y": 14,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        13,
+        14,
+        {
+            "light_in_stationary_system": {
+                "time": 14,
+                "timeStep": 1,
+                "x": 28,
+                "y": 14,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        14,
+        15,
+        {
+            "end_A_in_stationary_system": {
+                "time": 15,
+                "timeStep": 1,
+                "x": 15,
+                "y": 15,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        14,
+        15,
+        {
+            "end_B_in_stationary_system": {
+                "time": 15,
+                "timeStep": 1,
+                "x": 30,
+                "y": 15,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        14,
+        15,
+        {
+            "light_in_stationary_system": {
+                "time": 15,
+                "timeStep": 1,
+                "x": 30,
+                "y": 15,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        15,
+        16,
+        {
+            "end_A_in_stationary_system": {
+                "time": 16,
+                "timeStep": 1,
+                "x": 16,
+                "y": 16,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        15,
+        16,
+        {
+            "end_B_in_stationary_system": {
+                "time": 16,
+                "timeStep": 1,
+                "x": 31,
+                "y": 16,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        15,
+        16,
+        {
+            "light_in_stationary_system": {
+                "time": 16,
+                "timeStep": 1,
+                "x": 28,
+                "y": 16,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        16,
+        17,
+        {
+            "end_A_in_stationary_system": {
+                "time": 17,
+                "timeStep": 1,
+                "x": 17,
+                "y": 17,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        16,
+        17,
+        {
+            "end_B_in_stationary_system": {
+                "time": 17,
+                "timeStep": 1,
+                "x": 32,
+                "y": 17,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        16,
+        17,
+        {
+            "light_in_stationary_system": {
+                "time": 17,
+                "timeStep": 1,
+                "x": 26,
+                "y": 17,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        17,
+        18,
+        {
+            "end_A_in_stationary_system": {
+                "time": 18,
+                "timeStep": 1,
+                "x": 18,
+                "y": 18,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        17,
+        18,
+        {
+            "end_B_in_stationary_system": {
+                "time": 18,
+                "timeStep": 1,
+                "x": 33,
+                "y": 18,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        17,
+        18,
+        {
+            "light_in_stationary_system": {
+                "time": 18,
+                "timeStep": 1,
+                "x": 24,
+                "y": 18,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        18,
+        19,
+        {
+            "end_A_in_stationary_system": {
+                "time": 19,
+                "timeStep": 1,
+                "x": 19,
+                "y": 19,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        18,
+        19,
+        {
+            "end_B_in_stationary_system": {
+                "time": 19,
+                "timeStep": 1,
+                "x": 34,
+                "y": 19,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        18,
+        19,
+        {
+            "light_in_stationary_system": {
+                "time": 19,
+                "timeStep": 1,
+                "x": 22,
+                "y": 19,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        19,
+        20,
+        {
+            "end_A_in_stationary_system": {
+                "time": 20,
+                "timeStep": 1,
+                "x": 20,
+                "y": 20,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        19,
+        20,
+        {
+            "end_B_in_stationary_system": {
+                "time": 20,
+                "timeStep": 1,
+                "x": 35,
+                "y": 20,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        19,
+        20,
+        {
+            "light_in_stationary_system": {
+                "time": 20,
+                "timeStep": 1,
+                "x": 20,
+                "y": 20,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        20,
+        21,
+        {
+            "end_A_in_stationary_system": {
+                "time": 21,
+                "timeStep": 1,
+                "x": 21,
+                "y": 21,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        20,
+        21,
+        {
+            "end_B_in_stationary_system": {
+                "time": 21,
+                "timeStep": 1,
+                "x": 36,
+                "y": 21,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        20,
+        21,
+        {
+            "light_in_stationary_system": {
+                "time": 21,
+                "timeStep": 1,
+                "x": 22,
+                "y": 21,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        21,
+        22,
+        {
+            "end_A_in_stationary_system": {
+                "time": 22,
+                "timeStep": 1,
+                "x": 22,
+                "y": 22,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        21,
+        22,
+        {
+            "end_B_in_stationary_system": {
+                "time": 22,
+                "timeStep": 1,
+                "x": 37,
+                "y": 22,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        21,
+        22,
+        {
+            "light_in_stationary_system": {
+                "time": 22,
+                "timeStep": 1,
+                "x": 24,
+                "y": 22,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        22,
+        23,
+        {
+            "end_A_in_stationary_system": {
+                "time": 23,
+                "timeStep": 1,
+                "x": 23,
+                "y": 23,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        22,
+        23,
+        {
+            "end_B_in_stationary_system": {
+                "time": 23,
+                "timeStep": 1,
+                "x": 38,
+                "y": 23,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        22,
+        23,
+        {
+            "light_in_stationary_system": {
+                "time": 23,
+                "timeStep": 1,
+                "x": 26,
+                "y": 23,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        23,
+        24,
+        {
+            "end_A_in_stationary_system": {
+                "time": 24,
+                "timeStep": 1,
+                "x": 24,
+                "y": 24,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        23,
+        24,
+        {
+            "end_B_in_stationary_system": {
+                "time": 24,
+                "timeStep": 1,
+                "x": 39,
+                "y": 24,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        23,
+        24,
+        {
+            "light_in_stationary_system": {
+                "time": 24,
+                "timeStep": 1,
+                "x": 28,
+                "y": 24,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        24,
+        25,
+        {
+            "end_A_in_stationary_system": {
+                "time": 25,
+                "timeStep": 1,
+                "x": 25,
+                "y": 25,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        24,
+        25,
+        {
+            "end_B_in_stationary_system": {
+                "time": 25,
+                "timeStep": 1,
+                "x": 40,
+                "y": 25,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        24,
+        25,
+        {
+            "light_in_stationary_system": {
+                "time": 25,
+                "timeStep": 1,
+                "x": 30,
+                "y": 25,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        25,
+        26,
+        {
+            "end_A_in_stationary_system": {
+                "time": 26,
+                "timeStep": 1,
+                "x": 26,
+                "y": 26,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        25,
+        26,
+        {
+            "end_B_in_stationary_system": {
+                "time": 26,
+                "timeStep": 1,
+                "x": 41,
+                "y": 26,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        25,
+        26,
+        {
+            "light_in_stationary_system": {
+                "time": 26,
+                "timeStep": 1,
+                "x": 32,
+                "y": 26,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        26,
+        27,
+        {
+            "end_A_in_stationary_system": {
+                "time": 27,
+                "timeStep": 1,
+                "x": 27,
+                "y": 27,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        26,
+        27,
+        {
+            "end_B_in_stationary_system": {
+                "time": 27,
+                "timeStep": 1,
+                "x": 42,
+                "y": 27,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        26,
+        27,
+        {
+            "light_in_stationary_system": {
+                "time": 27,
+                "timeStep": 1,
+                "x": 34,
+                "y": 27,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        27,
+        28,
+        {
+            "end_A_in_stationary_system": {
+                "time": 28,
+                "timeStep": 1,
+                "x": 28,
+                "y": 28,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        27,
+        28,
+        {
+            "end_B_in_stationary_system": {
+                "time": 28,
+                "timeStep": 1,
+                "x": 43,
+                "y": 28,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        27,
+        28,
+        {
+            "light_in_stationary_system": {
+                "time": 28,
+                "timeStep": 1,
+                "x": 36,
+                "y": 28,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        28,
+        29,
+        {
+            "end_A_in_stationary_system": {
+                "time": 29,
+                "timeStep": 1,
+                "x": 29,
+                "y": 29,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        28,
+        29,
+        {
+            "end_B_in_stationary_system": {
+                "time": 29,
+                "timeStep": 1,
+                "x": 44,
+                "y": 29,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        28,
+        29,
+        {
+            "light_in_stationary_system": {
+                "time": 29,
+                "timeStep": 1,
+                "x": 38,
+                "y": 29,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        29,
+        30,
+        {
+            "end_A_in_stationary_system": {
+                "time": 30,
+                "timeStep": 1,
+                "x": 30,
+                "y": 30,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        29,
+        30,
+        {
+            "end_B_in_stationary_system": {
+                "time": 30,
+                "timeStep": 1,
+                "x": 45,
+                "y": 30,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        29,
+        30,
+        {
+            "light_in_stationary_system": {
+                "time": 30,
+                "timeStep": 1,
+                "x": 40,
+                "y": 30,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        30,
+        31,
+        {
+            "end_A_in_stationary_system": {
+                "time": 31,
+                "timeStep": 1,
+                "x": 31,
+                "y": 31,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        30,
+        31,
+        {
+            "end_B_in_stationary_system": {
+                "time": 31,
+                "timeStep": 1,
+                "x": 46,
+                "y": 31,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        30,
+        31,
+        {
+            "light_in_stationary_system": {
+                "time": 31,
+                "timeStep": 1,
+                "x": 42,
+                "y": 31,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        31,
+        32,
+        {
+            "end_A_in_stationary_system": {
+                "time": 32,
+                "timeStep": 1,
+                "x": 32,
+                "y": 32,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        31,
+        32,
+        {
+            "end_B_in_stationary_system": {
+                "time": 32,
+                "timeStep": 1,
+                "x": 47,
+                "y": 32,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        31,
+        32,
+        {
+            "light_in_stationary_system": {
+                "time": 32,
+                "timeStep": 1,
+                "x": 44,
+                "y": 32,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        32,
+        33,
+        {
+            "end_A_in_stationary_system": {
+                "time": 33,
+                "timeStep": 1,
+                "x": 33,
+                "y": 33,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        32,
+        33,
+        {
+            "end_B_in_stationary_system": {
+                "time": 33,
+                "timeStep": 1,
+                "x": 48,
+                "y": 33,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        32,
+        33,
+        {
+            "light_in_stationary_system": {
+                "time": 33,
+                "timeStep": 1,
+                "x": 46,
+                "y": 33,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        33,
+        34,
+        {
+            "end_A_in_stationary_system": {
+                "time": 34,
+                "timeStep": 1,
+                "x": 34,
+                "y": 34,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        33,
+        34,
+        {
+            "end_B_in_stationary_system": {
+                "time": 34,
+                "timeStep": 1,
+                "x": 49,
+                "y": 34,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        33,
+        34,
+        {
+            "light_in_stationary_system": {
+                "time": 34,
+                "timeStep": 1,
+                "x": 48,
+                "y": 34,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        34,
+        35,
+        {
+            "end_A_in_stationary_system": {
+                "time": 35,
+                "timeStep": 1,
+                "x": 35,
+                "y": 35,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        34,
+        35,
+        {
+            "end_B_in_stationary_system": {
+                "time": 35,
+                "timeStep": 1,
+                "x": 50,
+                "y": 35,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        34,
+        35,
+        {
+            "light_in_stationary_system": {
+                "time": 35,
+                "timeStep": 1,
+                "x": 50,
+                "y": 35,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        35,
+        36,
+        {
+            "end_A_in_stationary_system": {
+                "time": 36,
+                "timeStep": 1,
+                "x": 36,
+                "y": 36,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        35,
+        36,
+        {
+            "end_B_in_stationary_system": {
+                "time": 36,
+                "timeStep": 1,
+                "x": 51,
+                "y": 36,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        35,
+        36,
+        {
+            "light_in_stationary_system": {
+                "time": 36,
+                "timeStep": 1,
+                "x": 48,
+                "y": 36,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        36,
+        37,
+        {
+            "end_A_in_stationary_system": {
+                "time": 37,
+                "timeStep": 1,
+                "x": 37,
+                "y": 37,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        36,
+        37,
+        {
+            "end_B_in_stationary_system": {
+                "time": 37,
+                "timeStep": 1,
+                "x": 52,
+                "y": 37,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        36,
+        37,
+        {
+            "light_in_stationary_system": {
+                "time": 37,
+                "timeStep": 1,
+                "x": 46,
+                "y": 37,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        37,
+        38,
+        {
+            "end_A_in_stationary_system": {
+                "time": 38,
+                "timeStep": 1,
+                "x": 38,
+                "y": 38,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        37,
+        38,
+        {
+            "end_B_in_stationary_system": {
+                "time": 38,
+                "timeStep": 1,
+                "x": 53,
+                "y": 38,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        37,
+        38,
+        {
+            "light_in_stationary_system": {
+                "time": 38,
+                "timeStep": 1,
+                "x": 44,
+                "y": 38,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        38,
+        39,
+        {
+            "end_A_in_stationary_system": {
+                "time": 39,
+                "timeStep": 1,
+                "x": 39,
+                "y": 39,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        38,
+        39,
+        {
+            "end_B_in_stationary_system": {
+                "time": 39,
+                "timeStep": 1,
+                "x": 54,
+                "y": 39,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        38,
+        39,
+        {
+            "light_in_stationary_system": {
+                "time": 39,
+                "timeStep": 1,
+                "x": 42,
+                "y": 39,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        39,
+        40,
+        {
+            "end_A_in_stationary_system": {
+                "time": 40,
+                "timeStep": 1,
+                "x": 40,
+                "y": 40,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        39,
+        40,
+        {
+            "end_B_in_stationary_system": {
+                "time": 40,
+                "timeStep": 1,
+                "x": 55,
+                "y": 40,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        39,
+        40,
+        {
+            "light_in_stationary_system": {
+                "time": 40,
+                "timeStep": 1,
+                "x": 40,
+                "y": 40,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        40,
+        41,
+        {
+            "end_A_in_stationary_system": {
+                "time": 41,
+                "timeStep": 1,
+                "x": 41,
+                "y": 41,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        40,
+        41,
+        {
+            "end_B_in_stationary_system": {
+                "time": 41,
+                "timeStep": 1,
+                "x": 56,
+                "y": 41,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        40,
+        41,
+        {
+            "light_in_stationary_system": {
+                "time": 41,
+                "timeStep": 1,
+                "x": 42,
+                "y": 41,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        41,
+        42,
+        {
+            "end_A_in_stationary_system": {
+                "time": 42,
+                "timeStep": 1,
+                "x": 42,
+                "y": 42,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        41,
+        42,
+        {
+            "end_B_in_stationary_system": {
+                "time": 42,
+                "timeStep": 1,
+                "x": 57,
+                "y": 42,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        41,
+        42,
+        {
+            "light_in_stationary_system": {
+                "time": 42,
+                "timeStep": 1,
+                "x": 44,
+                "y": 42,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        42,
+        43,
+        {
+            "end_A_in_stationary_system": {
+                "time": 43,
+                "timeStep": 1,
+                "x": 43,
+                "y": 43,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        42,
+        43,
+        {
+            "end_B_in_stationary_system": {
+                "time": 43,
+                "timeStep": 1,
+                "x": 58,
+                "y": 43,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        42,
+        43,
+        {
+            "light_in_stationary_system": {
+                "time": 43,
+                "timeStep": 1,
+                "x": 46,
+                "y": 43,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        43,
+        44,
+        {
+            "end_A_in_stationary_system": {
+                "time": 44,
+                "timeStep": 1,
+                "x": 44,
+                "y": 44,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        43,
+        44,
+        {
+            "end_B_in_stationary_system": {
+                "time": 44,
+                "timeStep": 1,
+                "x": 59,
+                "y": 44,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        43,
+        44,
+        {
+            "light_in_stationary_system": {
+                "time": 44,
+                "timeStep": 1,
+                "x": 48,
+                "y": 44,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        44,
+        45,
+        {
+            "end_A_in_stationary_system": {
+                "time": 45,
+                "timeStep": 1,
+                "x": 45,
+                "y": 45,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        44,
+        45,
+        {
+            "end_B_in_stationary_system": {
+                "time": 45,
+                "timeStep": 1,
+                "x": 60,
+                "y": 45,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        44,
+        45,
+        {
+            "light_in_stationary_system": {
+                "time": 45,
+                "timeStep": 1,
+                "x": 50,
+                "y": 45,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        45,
+        46,
+        {
+            "end_A_in_stationary_system": {
+                "time": 46,
+                "timeStep": 1,
+                "x": 46,
+                "y": 46,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        45,
+        46,
+        {
+            "end_B_in_stationary_system": {
+                "time": 46,
+                "timeStep": 1,
+                "x": 61,
+                "y": 46,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        45,
+        46,
+        {
+            "light_in_stationary_system": {
+                "time": 46,
+                "timeStep": 1,
+                "x": 52,
+                "y": 46,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        46,
+        47,
+        {
+            "end_A_in_stationary_system": {
+                "time": 47,
+                "timeStep": 1,
+                "x": 47,
+                "y": 47,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        46,
+        47,
+        {
+            "end_B_in_stationary_system": {
+                "time": 47,
+                "timeStep": 1,
+                "x": 62,
+                "y": 47,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        46,
+        47,
+        {
+            "light_in_stationary_system": {
+                "time": 47,
+                "timeStep": 1,
+                "x": 54,
+                "y": 47,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        47,
+        48,
+        {
+            "end_A_in_stationary_system": {
+                "time": 48,
+                "timeStep": 1,
+                "x": 48,
+                "y": 48,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        47,
+        48,
+        {
+            "end_B_in_stationary_system": {
+                "time": 48,
+                "timeStep": 1,
+                "x": 63,
+                "y": 48,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        47,
+        48,
+        {
+            "light_in_stationary_system": {
+                "time": 48,
+                "timeStep": 1,
+                "x": 56,
+                "y": 48,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        48,
+        49,
+        {
+            "end_A_in_stationary_system": {
+                "time": 49,
+                "timeStep": 1,
+                "x": 49,
+                "y": 49,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        48,
+        49,
+        {
+            "end_B_in_stationary_system": {
+                "time": 49,
+                "timeStep": 1,
+                "x": 64,
+                "y": 49,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        48,
+        49,
+        {
+            "light_in_stationary_system": {
+                "time": 49,
+                "timeStep": 1,
+                "x": 58,
+                "y": 49,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        49,
+        50,
+        {
+            "end_A_in_stationary_system": {
+                "time": 50,
+                "timeStep": 1,
+                "x": 50,
+                "y": 50,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        49,
+        50,
+        {
+            "end_B_in_stationary_system": {
+                "time": 50,
+                "timeStep": 1,
+                "x": 65,
+                "y": 50,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        49,
+        50,
+        {
+            "light_in_stationary_system": {
+                "time": 50,
+                "timeStep": 1,
+                "x": 60,
+                "y": 50,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        50,
+        51,
+        {
+            "end_A_in_stationary_system": {
+                "time": 51,
+                "timeStep": 1,
+                "x": 51,
+                "y": 51,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        50,
+        51,
+        {
+            "end_B_in_stationary_system": {
+                "time": 51,
+                "timeStep": 1,
+                "x": 66,
+                "y": 51,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        50,
+        51,
+        {
+            "light_in_stationary_system": {
+                "time": 51,
+                "timeStep": 1,
+                "x": 62,
+                "y": 51,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        51,
+        52,
+        {
+            "end_A_in_stationary_system": {
+                "time": 52,
+                "timeStep": 1,
+                "x": 52,
+                "y": 52,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        51,
+        52,
+        {
+            "end_B_in_stationary_system": {
+                "time": 52,
+                "timeStep": 1,
+                "x": 67,
+                "y": 52,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        51,
+        52,
+        {
+            "light_in_stationary_system": {
+                "time": 52,
+                "timeStep": 1,
+                "x": 64,
+                "y": 52,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        52,
+        53,
+        {
+            "end_A_in_stationary_system": {
+                "time": 53,
+                "timeStep": 1,
+                "x": 53,
+                "y": 53,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        52,
+        53,
+        {
+            "end_B_in_stationary_system": {
+                "time": 53,
+                "timeStep": 1,
+                "x": 68,
+                "y": 53,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        52,
+        53,
+        {
+            "light_in_stationary_system": {
+                "time": 53,
+                "timeStep": 1,
+                "x": 66,
+                "y": 53,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        53,
+        54,
+        {
+            "end_A_in_stationary_system": {
+                "time": 54,
+                "timeStep": 1,
+                "x": 54,
+                "y": 54,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        53,
+        54,
+        {
+            "end_B_in_stationary_system": {
+                "time": 54,
+                "timeStep": 1,
+                "x": 69,
+                "y": 54,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        53,
+        54,
+        {
+            "light_in_stationary_system": {
+                "time": 54,
+                "timeStep": 1,
+                "x": 68,
+                "y": 54,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        54,
+        55,
+        {
+            "end_A_in_stationary_system": {
+                "time": 55,
+                "timeStep": 1,
+                "x": 55,
+                "y": 55,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        54,
+        55,
+        {
+            "end_B_in_stationary_system": {
+                "time": 55,
+                "timeStep": 1,
+                "x": 70,
+                "y": 55,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        54,
+        55,
+        {
+            "light_in_stationary_system": {
+                "time": 55,
+                "timeStep": 1,
+                "x": 70,
+                "y": 55,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        55,
+        56,
+        {
+            "end_A_in_stationary_system": {
+                "time": 56,
+                "timeStep": 1,
+                "x": 56,
+                "y": 56,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        55,
+        56,
+        {
+            "end_B_in_stationary_system": {
+                "time": 56,
+                "timeStep": 1,
+                "x": 71,
+                "y": 56,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        55,
+        56,
+        {
+            "light_in_stationary_system": {
+                "time": 56,
+                "timeStep": 1,
+                "x": 68,
+                "y": 56,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        56,
+        57,
+        {
+            "end_A_in_stationary_system": {
+                "time": 57,
+                "timeStep": 1,
+                "x": 57,
+                "y": 57,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        56,
+        57,
+        {
+            "end_B_in_stationary_system": {
+                "time": 57,
+                "timeStep": 1,
+                "x": 72,
+                "y": 57,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        56,
+        57,
+        {
+            "light_in_stationary_system": {
+                "time": 57,
+                "timeStep": 1,
+                "x": 66,
+                "y": 57,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        57,
+        58,
+        {
+            "end_A_in_stationary_system": {
+                "time": 58,
+                "timeStep": 1,
+                "x": 58,
+                "y": 58,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        57,
+        58,
+        {
+            "end_B_in_stationary_system": {
+                "time": 58,
+                "timeStep": 1,
+                "x": 73,
+                "y": 58,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        57,
+        58,
+        {
+            "light_in_stationary_system": {
+                "time": 58,
+                "timeStep": 1,
+                "x": 64,
+                "y": 58,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        58,
+        59,
+        {
+            "end_A_in_stationary_system": {
+                "time": 59,
+                "timeStep": 1,
+                "x": 59,
+                "y": 59,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        58,
+        59,
+        {
+            "end_B_in_stationary_system": {
+                "time": 59,
+                "timeStep": 1,
+                "x": 74,
+                "y": 59,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        58,
+        59,
+        {
+            "light_in_stationary_system": {
+                "time": 59,
+                "timeStep": 1,
+                "x": 62,
+                "y": 59,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        59,
+        60,
+        {
+            "end_A_in_stationary_system": {
+                "time": 60,
+                "timeStep": 1,
+                "x": 60,
+                "y": 60,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        59,
+        60,
+        {
+            "end_B_in_stationary_system": {
+                "time": 60,
+                "timeStep": 1,
+                "x": 75,
+                "y": 60,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        59,
+        60,
+        {
+            "light_in_stationary_system": {
+                "time": 60,
+                "timeStep": 1,
+                "x": 60,
+                "y": 60,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        60,
+        61,
+        {
+            "end_A_in_stationary_system": {
+                "time": 61,
+                "timeStep": 1,
+                "x": 61,
+                "y": 61,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        60,
+        61,
+        {
+            "end_B_in_stationary_system": {
+                "time": 61,
+                "timeStep": 1,
+                "x": 76,
+                "y": 61,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        60,
+        61,
+        {
+            "light_in_stationary_system": {
+                "time": 61,
+                "timeStep": 1,
+                "x": 62,
+                "y": 61,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        61,
+        62,
+        {
+            "end_A_in_stationary_system": {
+                "time": 62,
+                "timeStep": 1,
+                "x": 62,
+                "y": 62,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        61,
+        62,
+        {
+            "end_B_in_stationary_system": {
+                "time": 62,
+                "timeStep": 1,
+                "x": 77,
+                "y": 62,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        61,
+        62,
+        {
+            "light_in_stationary_system": {
+                "time": 62,
+                "timeStep": 1,
+                "x": 64,
+                "y": 62,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        62,
+        63,
+        {
+            "end_A_in_stationary_system": {
+                "time": 63,
+                "timeStep": 1,
+                "x": 63,
+                "y": 63,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        62,
+        63,
+        {
+            "end_B_in_stationary_system": {
+                "time": 63,
+                "timeStep": 1,
+                "x": 78,
+                "y": 63,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        62,
+        63,
+        {
+            "light_in_stationary_system": {
+                "time": 63,
+                "timeStep": 1,
+                "x": 66,
+                "y": 63,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        63,
+        64,
+        {
+            "end_A_in_stationary_system": {
+                "time": 64,
+                "timeStep": 1,
+                "x": 64,
+                "y": 64,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        63,
+        64,
+        {
+            "end_B_in_stationary_system": {
+                "time": 64,
+                "timeStep": 1,
+                "x": 79,
+                "y": 64,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        63,
+        64,
+        {
+            "light_in_stationary_system": {
+                "time": 64,
+                "timeStep": 1,
+                "x": 68,
+                "y": 64,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        64,
+        65,
+        {
+            "end_A_in_stationary_system": {
+                "time": 65,
+                "timeStep": 1,
+                "x": 65,
+                "y": 65,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        64,
+        65,
+        {
+            "end_B_in_stationary_system": {
+                "time": 65,
+                "timeStep": 1,
+                "x": 80,
+                "y": 65,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        64,
+        65,
+        {
+            "light_in_stationary_system": {
+                "time": 65,
+                "timeStep": 1,
+                "x": 70,
+                "y": 65,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        65,
+        66,
+        {
+            "end_A_in_stationary_system": {
+                "time": 66,
+                "timeStep": 1,
+                "x": 66,
+                "y": 66,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        65,
+        66,
+        {
+            "end_B_in_stationary_system": {
+                "time": 66,
+                "timeStep": 1,
+                "x": 81,
+                "y": 66,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        65,
+        66,
+        {
+            "light_in_stationary_system": {
+                "time": 66,
+                "timeStep": 1,
+                "x": 72,
+                "y": 66,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        66,
+        67,
+        {
+            "end_A_in_stationary_system": {
+                "time": 67,
+                "timeStep": 1,
+                "x": 67,
+                "y": 67,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        66,
+        67,
+        {
+            "end_B_in_stationary_system": {
+                "time": 67,
+                "timeStep": 1,
+                "x": 82,
+                "y": 67,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        66,
+        67,
+        {
+            "light_in_stationary_system": {
+                "time": 67,
+                "timeStep": 1,
+                "x": 74,
+                "y": 67,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        67,
+        68,
+        {
+            "end_A_in_stationary_system": {
+                "time": 68,
+                "timeStep": 1,
+                "x": 68,
+                "y": 68,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        67,
+        68,
+        {
+            "end_B_in_stationary_system": {
+                "time": 68,
+                "timeStep": 1,
+                "x": 83,
+                "y": 68,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        67,
+        68,
+        {
+            "light_in_stationary_system": {
+                "time": 68,
+                "timeStep": 1,
+                "x": 76,
+                "y": 68,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        68,
+        69,
+        {
+            "end_A_in_stationary_system": {
+                "time": 69,
+                "timeStep": 1,
+                "x": 69,
+                "y": 69,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        68,
+        69,
+        {
+            "end_B_in_stationary_system": {
+                "time": 69,
+                "timeStep": 1,
+                "x": 84,
+                "y": 69,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        68,
+        69,
+        {
+            "light_in_stationary_system": {
+                "time": 69,
+                "timeStep": 1,
+                "x": 78,
+                "y": 69,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        69,
+        70,
+        {
+            "end_A_in_stationary_system": {
+                "time": 70,
+                "timeStep": 1,
+                "x": 70,
+                "y": 70,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        69,
+        70,
+        {
+            "end_B_in_stationary_system": {
+                "time": 70,
+                "timeStep": 1,
+                "x": 85,
+                "y": 70,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        69,
+        70,
+        {
+            "light_in_stationary_system": {
+                "time": 70,
+                "timeStep": 1,
+                "x": 80,
+                "y": 70,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        70,
+        71,
+        {
+            "end_A_in_stationary_system": {
+                "time": 71,
+                "timeStep": 1,
+                "x": 71,
+                "y": 71,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        70,
+        71,
+        {
+            "end_B_in_stationary_system": {
+                "time": 71,
+                "timeStep": 1,
+                "x": 86,
+                "y": 71,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        70,
+        71,
+        {
+            "light_in_stationary_system": {
+                "time": 71,
+                "timeStep": 1,
+                "x": 82,
+                "y": 71,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        71,
+        72,
+        {
+            "end_A_in_stationary_system": {
+                "time": 72,
+                "timeStep": 1,
+                "x": 72,
+                "y": 72,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        71,
+        72,
+        {
+            "end_B_in_stationary_system": {
+                "time": 72,
+                "timeStep": 1,
+                "x": 87,
+                "y": 72,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        71,
+        72,
+        {
+            "light_in_stationary_system": {
+                "time": 72,
+                "timeStep": 1,
+                "x": 84,
+                "y": 72,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        72,
+        73,
+        {
+            "end_A_in_stationary_system": {
+                "time": 73,
+                "timeStep": 1,
+                "x": 73,
+                "y": 73,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        72,
+        73,
+        {
+            "end_B_in_stationary_system": {
+                "time": 73,
+                "timeStep": 1,
+                "x": 88,
+                "y": 73,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        72,
+        73,
+        {
+            "light_in_stationary_system": {
+                "time": 73,
+                "timeStep": 1,
+                "x": 86,
+                "y": 73,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        73,
+        74,
+        {
+            "end_A_in_stationary_system": {
+                "time": 74,
+                "timeStep": 1,
+                "x": 74,
+                "y": 74,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        73,
+        74,
+        {
+            "end_B_in_stationary_system": {
+                "time": 74,
+                "timeStep": 1,
+                "x": 89,
+                "y": 74,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        73,
+        74,
+        {
+            "light_in_stationary_system": {
+                "time": 74,
+                "timeStep": 1,
+                "x": 88,
+                "y": 74,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        74,
+        75,
+        {
+            "end_A_in_stationary_system": {
+                "time": 75,
+                "timeStep": 1,
+                "x": 75,
+                "y": 75,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        74,
+        75,
+        {
+            "end_B_in_stationary_system": {
+                "time": 75,
+                "timeStep": 1,
+                "x": 90,
+                "y": 75,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        74,
+        75,
+        {
+            "light_in_stationary_system": {
+                "time": 75,
+                "timeStep": 1,
+                "x": 90,
+                "y": 75,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        75,
+        76,
+        {
+            "end_A_in_stationary_system": {
+                "time": 76,
+                "timeStep": 1,
+                "x": 76,
+                "y": 76,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        75,
+        76,
+        {
+            "end_B_in_stationary_system": {
+                "time": 76,
+                "timeStep": 1,
+                "x": 91,
+                "y": 76,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        75,
+        76,
+        {
+            "light_in_stationary_system": {
+                "time": 76,
+                "timeStep": 1,
+                "x": 88,
+                "y": 76,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        76,
+        77,
+        {
+            "end_A_in_stationary_system": {
+                "time": 77,
+                "timeStep": 1,
+                "x": 77,
+                "y": 77,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        76,
+        77,
+        {
+            "end_B_in_stationary_system": {
+                "time": 77,
+                "timeStep": 1,
+                "x": 92,
+                "y": 77,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        76,
+        77,
+        {
+            "light_in_stationary_system": {
+                "time": 77,
+                "timeStep": 1,
+                "x": 86,
+                "y": 77,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        77,
+        78,
+        {
+            "end_A_in_stationary_system": {
+                "time": 78,
+                "timeStep": 1,
+                "x": 78,
+                "y": 78,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        77,
+        78,
+        {
+            "end_B_in_stationary_system": {
+                "time": 78,
+                "timeStep": 1,
+                "x": 93,
+                "y": 78,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        77,
+        78,
+        {
+            "light_in_stationary_system": {
+                "time": 78,
+                "timeStep": 1,
+                "x": 84,
+                "y": 78,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        78,
+        79,
+        {
+            "end_A_in_stationary_system": {
+                "time": 79,
+                "timeStep": 1,
+                "x": 79,
+                "y": 79,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        78,
+        79,
+        {
+            "end_B_in_stationary_system": {
+                "time": 79,
+                "timeStep": 1,
+                "x": 94,
+                "y": 79,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        78,
+        79,
+        {
+            "light_in_stationary_system": {
+                "time": 79,
+                "timeStep": 1,
+                "x": 82,
+                "y": 79,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        79,
+        80,
+        {
+            "end_A_in_stationary_system": {
+                "time": 80,
+                "timeStep": 1,
+                "x": 80,
+                "y": 80,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        79,
+        80,
+        {
+            "end_B_in_stationary_system": {
+                "time": 80,
+                "timeStep": 1,
+                "x": 95,
+                "y": 80,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        79,
+        80,
+        {
+            "light_in_stationary_system": {
+                "time": 80,
+                "timeStep": 1,
+                "x": 80,
+                "y": 80,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        80,
+        81,
+        {
+            "end_A_in_stationary_system": {
+                "time": 81,
+                "timeStep": 1,
+                "x": 81,
+                "y": 81,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        80,
+        81,
+        {
+            "end_B_in_stationary_system": {
+                "time": 81,
+                "timeStep": 1,
+                "x": 96,
+                "y": 81,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        80,
+        81,
+        {
+            "light_in_stationary_system": {
+                "time": 81,
+                "timeStep": 1,
+                "x": 82,
+                "y": 81,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        81,
+        82,
+        {
+            "end_A_in_stationary_system": {
+                "time": 82,
+                "timeStep": 1,
+                "x": 82,
+                "y": 82,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        81,
+        82,
+        {
+            "end_B_in_stationary_system": {
+                "time": 82,
+                "timeStep": 1,
+                "x": 97,
+                "y": 82,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        81,
+        82,
+        {
+            "light_in_stationary_system": {
+                "time": 82,
+                "timeStep": 1,
+                "x": 84,
+                "y": 82,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        82,
+        83,
+        {
+            "end_A_in_stationary_system": {
+                "time": 83,
+                "timeStep": 1,
+                "x": 83,
+                "y": 83,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        82,
+        83,
+        {
+            "end_B_in_stationary_system": {
+                "time": 83,
+                "timeStep": 1,
+                "x": 98,
+                "y": 83,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        82,
+        83,
+        {
+            "light_in_stationary_system": {
+                "time": 83,
+                "timeStep": 1,
+                "x": 86,
+                "y": 83,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        83,
+        84,
+        {
+            "end_A_in_stationary_system": {
+                "time": 84,
+                "timeStep": 1,
+                "x": 84,
+                "y": 84,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        83,
+        84,
+        {
+            "end_B_in_stationary_system": {
+                "time": 84,
+                "timeStep": 1,
+                "x": 99,
+                "y": 84,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        83,
+        84,
+        {
+            "light_in_stationary_system": {
+                "time": 84,
+                "timeStep": 1,
+                "x": 88,
+                "y": 84,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        84,
+        85,
+        {
+            "end_A_in_stationary_system": {
+                "time": 85,
+                "timeStep": 1,
+                "x": 85,
+                "y": 85,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        84,
+        85,
+        {
+            "end_B_in_stationary_system": {
+                "time": 85,
+                "timeStep": 1,
+                "x": 100,
+                "y": 85,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        84,
+        85,
+        {
+            "light_in_stationary_system": {
+                "time": 85,
+                "timeStep": 1,
+                "x": 90,
+                "y": 85,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        85,
+        86,
+        {
+            "end_A_in_stationary_system": {
+                "time": 86,
+                "timeStep": 1,
+                "x": 86,
+                "y": 86,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        85,
+        86,
+        {
+            "end_B_in_stationary_system": {
+                "time": 86,
+                "timeStep": 1,
+                "x": 101,
+                "y": 86,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        85,
+        86,
+        {
+            "light_in_stationary_system": {
+                "time": 86,
+                "timeStep": 1,
+                "x": 92,
+                "y": 86,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        86,
+        87,
+        {
+            "end_A_in_stationary_system": {
+                "time": 87,
+                "timeStep": 1,
+                "x": 87,
+                "y": 87,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        86,
+        87,
+        {
+            "end_B_in_stationary_system": {
+                "time": 87,
+                "timeStep": 1,
+                "x": 102,
+                "y": 87,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        86,
+        87,
+        {
+            "light_in_stationary_system": {
+                "time": 87,
+                "timeStep": 1,
+                "x": 94,
+                "y": 87,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        87,
+        88,
+        {
+            "end_A_in_stationary_system": {
+                "time": 88,
+                "timeStep": 1,
+                "x": 88,
+                "y": 88,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        87,
+        88,
+        {
+            "end_B_in_stationary_system": {
+                "time": 88,
+                "timeStep": 1,
+                "x": 103,
+                "y": 88,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        87,
+        88,
+        {
+            "light_in_stationary_system": {
+                "time": 88,
+                "timeStep": 1,
+                "x": 96,
+                "y": 88,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        88,
+        89,
+        {
+            "end_A_in_stationary_system": {
+                "time": 89,
+                "timeStep": 1,
+                "x": 89,
+                "y": 89,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        88,
+        89,
+        {
+            "end_B_in_stationary_system": {
+                "time": 89,
+                "timeStep": 1,
+                "x": 104,
+                "y": 89,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        88,
+        89,
+        {
+            "light_in_stationary_system": {
+                "time": 89,
+                "timeStep": 1,
+                "x": 98,
+                "y": 89,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        89,
+        90,
+        {
+            "end_A_in_stationary_system": {
+                "time": 90,
+                "timeStep": 1,
+                "x": 90,
+                "y": 90,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        89,
+        90,
+        {
+            "end_B_in_stationary_system": {
+                "time": 90,
+                "timeStep": 1,
+                "x": 105,
+                "y": 90,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        89,
+        90,
+        {
+            "light_in_stationary_system": {
+                "time": 90,
+                "timeStep": 1,
+                "x": 100,
+                "y": 90,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        90,
+        91,
+        {
+            "end_A_in_stationary_system": {
+                "time": 91,
+                "timeStep": 1,
+                "x": 91,
+                "y": 91,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        90,
+        91,
+        {
+            "end_B_in_stationary_system": {
+                "time": 91,
+                "timeStep": 1,
+                "x": 106,
+                "y": 91,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        90,
+        91,
+        {
+            "light_in_stationary_system": {
+                "time": 91,
+                "timeStep": 1,
+                "x": 102,
+                "y": 91,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        91,
+        92,
+        {
+            "end_A_in_stationary_system": {
+                "time": 92,
+                "timeStep": 1,
+                "x": 92,
+                "y": 92,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        91,
+        92,
+        {
+            "end_B_in_stationary_system": {
+                "time": 92,
+                "timeStep": 1,
+                "x": 107,
+                "y": 92,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        91,
+        92,
+        {
+            "light_in_stationary_system": {
+                "time": 92,
+                "timeStep": 1,
+                "x": 104,
+                "y": 92,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        92,
+        93,
+        {
+            "end_A_in_stationary_system": {
+                "time": 93,
+                "timeStep": 1,
+                "x": 93,
+                "y": 93,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        92,
+        93,
+        {
+            "end_B_in_stationary_system": {
+                "time": 93,
+                "timeStep": 1,
+                "x": 108,
+                "y": 93,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        92,
+        93,
+        {
+            "light_in_stationary_system": {
+                "time": 93,
+                "timeStep": 1,
+                "x": 106,
+                "y": 93,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        93,
+        94,
+        {
+            "end_A_in_stationary_system": {
+                "time": 94,
+                "timeStep": 1,
+                "x": 94,
+                "y": 94,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        93,
+        94,
+        {
+            "end_B_in_stationary_system": {
+                "time": 94,
+                "timeStep": 1,
+                "x": 109,
+                "y": 94,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        93,
+        94,
+        {
+            "light_in_stationary_system": {
+                "time": 94,
+                "timeStep": 1,
+                "x": 108,
+                "y": 94,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        94,
+        95,
+        {
+            "end_A_in_stationary_system": {
+                "time": 95,
+                "timeStep": 1,
+                "x": 95,
+                "y": 95,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        94,
+        95,
+        {
+            "end_B_in_stationary_system": {
+                "time": 95,
+                "timeStep": 1,
+                "x": 110,
+                "y": 95,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        94,
+        95,
+        {
+            "light_in_stationary_system": {
+                "time": 95,
+                "timeStep": 1,
+                "x": 110,
+                "y": 95,
+                "vx": 2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        95,
+        96,
+        {
+            "end_A_in_stationary_system": {
+                "time": 96,
+                "timeStep": 1,
+                "x": 96,
+                "y": 96,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        95,
+        96,
+        {
+            "end_B_in_stationary_system": {
+                "time": 96,
+                "timeStep": 1,
+                "x": 111,
+                "y": 96,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        95,
+        96,
+        {
+            "light_in_stationary_system": {
+                "time": 96,
+                "timeStep": 1,
+                "x": 108,
+                "y": 96,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        96,
+        97,
+        {
+            "end_A_in_stationary_system": {
+                "time": 97,
+                "timeStep": 1,
+                "x": 97,
+                "y": 97,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        96,
+        97,
+        {
+            "end_B_in_stationary_system": {
+                "time": 97,
+                "timeStep": 1,
+                "x": 112,
+                "y": 97,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        96,
+        97,
+        {
+            "light_in_stationary_system": {
+                "time": 97,
+                "timeStep": 1,
+                "x": 106,
+                "y": 97,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        97,
+        98,
+        {
+            "end_A_in_stationary_system": {
+                "time": 98,
+                "timeStep": 1,
+                "x": 98,
+                "y": 98,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        97,
+        98,
+        {
+            "end_B_in_stationary_system": {
+                "time": 98,
+                "timeStep": 1,
+                "x": 113,
+                "y": 98,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        97,
+        98,
+        {
+            "light_in_stationary_system": {
+                "time": 98,
+                "timeStep": 1,
+                "x": 104,
+                "y": 98,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        98,
+        99,
+        {
+            "end_A_in_stationary_system": {
+                "time": 99,
+                "timeStep": 1,
+                "x": 99,
+                "y": 99,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        98,
+        99,
+        {
+            "end_B_in_stationary_system": {
+                "time": 99,
+                "timeStep": 1,
+                "x": 114,
+                "y": 99,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        98,
+        99,
+        {
+            "light_in_stationary_system": {
+                "time": 99,
+                "timeStep": 1,
+                "x": 102,
+                "y": 99,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        99,
+        100,
+        {
+            "end_A_in_stationary_system": {
+                "time": 100,
+                "timeStep": 1,
+                "x": 100,
+                "y": 100,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        99,
+        100,
+        {
+            "end_B_in_stationary_system": {
+                "time": 100,
+                "timeStep": 1,
+                "x": 115,
+                "y": 100,
+                "vx": 1,
+                "vy": 0
+            }
+        }
+    ],
+    [
+        99,
+        100,
+        {
+            "light_in_stationary_system": {
+                "time": 100,
+                "timeStep": 1,
+                "x": 100,
+                "y": 100,
+                "vx": -2,
+                "vy": 0
+            }
+        }
+    ]
+]
